@@ -52,7 +52,7 @@ The server will start, and you can access the API endpoints as described below.
 Example Request:
 
 ```http
-GET http://localhost:3000/api/analysis
+GET http://localhost:3000/api/blog-stat
 ```
 
 ### 2.Query
